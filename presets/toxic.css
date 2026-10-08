@@ -1,0 +1,9 @@
+/* toxic — acid green into lime */
+@import url("../domain.css");
+
+:root {
+  --d-accent: #22c55e;
+  --d-accent-rgb: 34 197 94;
+  --d-accent-2: #b6e83a;
+  --d-accent-dark: #15803d;
+}

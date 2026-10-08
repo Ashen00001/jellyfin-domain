@@ -1,0 +1,9 @@
+/* domain — the default: cursed red into ember */
+@import url("../domain.css");
+
+:root {
+  --d-accent: #e8283f;
+  --d-accent-rgb: 232 40 63;
+  --d-accent-2: #ff7a45;
+  --d-accent-dark: #a8172b;
+}

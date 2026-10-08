@@ -1,0 +1,9 @@
+/* hollow-purple — violet into magenta */
+@import url("../domain.css");
+
+:root {
+  --d-accent: #8b5cf6;
+  --d-accent-rgb: 139 92 246;
+  --d-accent-2: #e049c9;
+  --d-accent-dark: #5b34c7;
+}

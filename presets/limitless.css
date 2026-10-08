@@ -1,0 +1,9 @@
+/* limitless — six-eyes blue into violet */
+@import url("../domain.css");
+
+:root {
+  --d-accent: #4f8cff;
+  --d-accent-rgb: 79 140 255;
+  --d-accent-2: #a66bff;
+  --d-accent-dark: #2c5fd0;
+}
